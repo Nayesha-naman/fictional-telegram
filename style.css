@@ -1,0 +1,29 @@
+.heading {
+    width: 100%;
+    text-align: center;
+    }
+    .botton{
+    float: right;
+    border: 1px solid white;
+    }
+    .heading h3{
+        display: inline;
+    }
+    .big_image{
+        width: 100%;
+    
+    }
+    #start,#status{
+        font-size: 22px;
+    }
+    
+    .footer{
+        width: 100%;
+        font-size: 20px;
+        color: black;
+        text-align: center;
+        background-color:white;
+        bottom: 0;
+        position: fixed;
+    }
+    
